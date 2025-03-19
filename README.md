@@ -1,0 +1,1 @@
+Repositório dedicado as atividades da UC: Programação de soluções computacionais
